@@ -1,0 +1,95 @@
+{
+    "modules": [
+        {
+            "config": {
+                "position": [
+                    506,
+                    138
+                ]
+            },
+            "name": "New Model Object",
+            "value": {
+                "actionGroup": {
+                    "_default0_index": false,
+                    "_default1_list": true,
+                    "_default2_show": true,
+                    "_default3_new_create": false,
+                    "_default4_edit_update": false,
+                    "_default5_delete": false,
+                    "customActions": []
+                },
+                "name": "Borsericerca",
+                "objectsettings": {
+                    "addDeletedField": true,
+                    "addHiddenField": true,
+                    "addStarttimeEndtimeFields": true,
+                    "aggregateRoot": true,
+                    "categorizable": false,
+                    "description": "",
+                    "mapToTable": "x_abstractbandi_domain_model_bandi",
+                    "parentClass": "\\Polimi\\Abstractbandi\\Domain\\Model\\Bandi",
+                    "sorting": true,
+                    "type": "Entity",
+                    "uid": "181810504262"
+                },
+                "propertyGroup": {
+                    "properties": []
+                },
+                "relationGroup": {
+                    "relations": []
+                }
+            }
+        }
+    ],
+    "properties": {
+        "backendModules": [],
+        "description": "",
+        "emConf": {
+            "category": "plugin",
+            "custom_category": "",
+            "dependsOn": "typo3 => 10.4.0-10.4.99\n",
+            "disableLocalization": false,
+            "disableVersioning": false,
+            "generateDocumentationTemplate": false,
+            "generateEditorConfig": false,
+            "generateEmptyGitRepository": false,
+            "sourceLanguage": "en",
+            "state": "alpha",
+            "targetVersion": "10.4.0-10.4.99",
+            "version": "1.0.0"
+        },
+        "extensionKey": "borsericerca",
+        "name": "borsericerca",
+        "originalExtensionKey": "",
+        "originalVendorName": "",
+        "persons": [],
+        "plugins": [
+            {
+                "actions": {
+                    "controllerActionCombinations": "Borsericerca=>list,show",
+                    "noncacheableActions": "Borsericerca=>list,show"
+                },
+                "description": "",
+                "key": "bandi",
+                "name": "bandi"
+            },
+            {
+                "actions": {
+                    "controllerActionCombinations": "Borsericerca=>list,show",
+                    "noncacheableActions": "Borsericerca=>list,show"
+                },
+                "description": "",
+                "key": "archivio",
+                "name": "archivio"
+            }
+        ],
+        "vendorName": "Polimiacre"
+    },
+    "wires": [],
+    "storagePath": "\/var\/www\/html\/development\/",
+    "log": {
+        "last_modified": "2022-10-28 07:42",
+        "extension_builder_version": "10.0.4",
+        "be_user": "Stefano (15)"
+    }
+}

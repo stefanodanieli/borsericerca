@@ -1,0 +1,21 @@
+
+config.tx_extbase {
+  persistence {
+    classes {
+
+      Polimi\Abstractbandi\Domain\Model\Bandi {
+        subclasses {
+          Tx_Borsericerca_Borsericerca = Polimiacre\Borsericerca\Domain\Model\Borsericerca
+          
+        }
+      }
+      Polimiacre\Borsericerca\Domain\Model\Borsericerca {
+        mapping {
+          tableName = x_abstractbandi_domain_model_bandi
+          recordType = Tx_Borsericerca_Borsericerca
+        }
+      }
+
+    }
+  }
+}
