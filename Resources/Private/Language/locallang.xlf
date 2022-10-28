@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <xliff version="1.0">
-	<file source-language="en" datatype="plaintext" original="EXT:borsericerca/Resources/Private/Language/locallang.xlf" date="2022-10-28T07:42:07Z" product-name="borsericerca">
+	<file source-language="en" datatype="plaintext" original="EXT:borsericerca/Resources/Private/Language/locallang.xlf" date="2022-10-28T10:54:15Z" product-name="borsericerca">
 		<header/>
 		<body>
 			<trans-unit id="tx_borsericerca_domain_model_borsericerca" resname="tx_borsericerca_domain_model_borsericerca">

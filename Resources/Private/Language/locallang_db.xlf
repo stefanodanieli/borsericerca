@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <xliff version="1.0">
-	<file source-language="en" datatype="plaintext" original="EXT:borsericerca/Resources/Private/Language/locallang_db.xlf" date="2022-10-28T07:42:07Z" product-name="borsericerca">
+	<file source-language="en" datatype="plaintext" original="EXT:borsericerca/Resources/Private/Language/locallang_db.xlf" date="2022-10-28T10:54:15Z" product-name="borsericerca">
 		<header/>
 		<body>
 			<trans-unit id="tx_borsericerca_domain_model_borsericerca" resname="tx_borsericerca_domain_model_borsericerca">
 				<source>Borsericerca</source>
 			</trans-unit>
-			<trans-unit id="x_abstractbandi_domain_model_bandi.tx_extbase_type.Tx_Borsericerca_Borsericerca" resname="x_abstractbandi_domain_model_bandi.tx_extbase_type.Tx_Borsericerca_Borsericerca">
+			<trans-unit id="tx_abstractbandi_domain_model_bandi.tx_extbase_type.Tx_Borsericerca_Borsericerca" resname="tx_abstractbandi_domain_model_bandi.tx_extbase_type.Tx_Borsericerca_Borsericerca">
 				<source>borsericerca Borsericerca</source>
 			</trans-unit>
 			<trans-unit id="tx_borsericerca.tx_extbase_type" resname="tx_borsericerca.tx_extbase_type">
