@@ -7,6 +7,7 @@
     "require": {
         "typo3/cms-core": "^10.4"
     },
+    "minimum-stability": "dev",
     "require-dev": {
         "typo3/testing-framework": "^6.8"
     },
