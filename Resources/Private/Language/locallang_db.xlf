@@ -13,16 +13,16 @@
 				<source>Record Type</source>
 			</trans-unit>
 			<trans-unit id="tx_borsericerca_bandi.name" resname="tx_borsericerca_bandi.name">
-				<source>bandi</source>
+				<source>Bandi Borse Ricerca</source>
 			</trans-unit>
 			<trans-unit id="tx_borsericerca_bandi.description" resname="tx_borsericerca_bandi.description">
-				<source></source>
+				<source>List and detail of Bandi Borse Ricerca</source>
 			</trans-unit>
 			<trans-unit id="tx_borsericerca_archivio.name" resname="tx_borsericerca_archivio.name">
-				<source>archivio</source>
+				<source>Archivio Borse Ricerca</source>
 			</trans-unit>
 			<trans-unit id="tx_borsericerca_archivio.description" resname="tx_borsericerca_archivio.description">
-				<source></source>
+				<source>List and detail of Archive Bandi Borse Ricerca</source>
 			</trans-unit>
 		</body>
 	</file>
